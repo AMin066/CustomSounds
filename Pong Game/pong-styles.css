@@ -14,11 +14,12 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
+  background-image: url("https://github.com/AMin066/CustomSounds/blob/main/funni_chicken.jpg");
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: black;
+  background-color: green;
   left: 10px;
   height: 25px;
 }
