@@ -14,18 +14,18 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("https://github.com/AMin066/CustomSounds/blob/main/funni_chicken.jpg");
+  background-image: url("funni_chicken.jpg");
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: black;
+  background-color: yellow;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: red;
+  background-color: purple;
   right: 10px;
 }
 
@@ -76,7 +76,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: yellow;
+  background-color: cyan;
   border-radius: 10px;
   position: absolute;
   left: 50px;
